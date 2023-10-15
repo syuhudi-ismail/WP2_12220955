@@ -13,6 +13,10 @@ class Latihan1 extends CI_Controller
          $data['nilai2'] = $n2;
          $data['hasil'] = $this->Model_Latihan1->jumlah($n1, $n2);
 
-         $this->load->view('view_latihan', $data);  
+         $this->load->view('view_
+         
+         
+         
+         latihan', $data);  
   }
 }
